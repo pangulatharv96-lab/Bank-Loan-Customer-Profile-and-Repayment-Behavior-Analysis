@@ -4,7 +4,6 @@
 
 - Analysis of Bank Loan Customers and Repayment Pattern
 - Project Overview
-=====
 - The project offers an insightful exploration of banking customer profiles based on data. With an examination of credit scores, income amounts, and the status of loans, this project is able to detect some risk patterns so that banking companies can reduce risks of defaulting on loans.
 
 -------------
